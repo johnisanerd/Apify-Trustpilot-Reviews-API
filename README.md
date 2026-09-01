@@ -386,4 +386,4 @@ For support or requests for this actor, please start a ticket [directly on our s
 
 *Use the Trustpilot Reviews API to power reputation monitoring, competitor tracking, and customer review data pipelines with reliable, structured results.*
 
-Last Updated: 2026.08.31
+Last Updated: 2026.09.01
