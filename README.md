@@ -198,6 +198,17 @@ A company URL that returns nothing produces an error row instead:
 
 The Actor also ships two ready-made dataset views on the Output tab: **Reviews overview** for a flat table of company, stars, title, reviewer, experience date, and verified flag, and **Reputation snapshot** for the company-level rating, total reviews, star split, and reply activity.
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Trustpilot Reviews API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Trustpilot%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustpilot-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Monitor%20Trustpilot%20Reputation%20for%20Any%20Company%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Trustpilot%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustpilot-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Monitor%20Trustpilot%20Reputation%20for%20Any%20Company%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Trustpilot%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustpilot-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Monitor%20Trustpilot%20Reputation%20for%20Any%20Company%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Trustpilot%20Reviews%20API%20on%20Apify%20%28https://apify.com/johnvc/trustpilot-reviews-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Monitor%20Trustpilot%20Reputation%20for%20Any%20Company%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 ## People also search for
 
 ### How do I monitor my online reputation?
